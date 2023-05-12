@@ -1,0 +1,39 @@
+ul{
+ list-style-type: none;   
+ margin: 10px;
+ width: 60px;
+ padding-right: 50px;
+ padding-block: 30px;
+ background-color:#FFBF00;
+}
+
+.b2{
+    background-color:burlywood;
+}
+.b3{
+    background-color:#A91101;
+}
+.i{
+    width: 500px;
+    float: right;
+    
+}
+.m{
+    width: 350px;
+}
+@media screen and (min-width: 400px) {
+    .mg {
+    background-color: #FBCEB1;
+}
+}
+.body {
+    padding: 25px;
+    background-color: white;
+    color: black;
+    font-size: 25px;
+  }
+  .dark-mode {
+    background-color: black;
+    color: white;
+  }
+  
